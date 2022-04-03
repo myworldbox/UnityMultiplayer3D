@@ -2,7 +2,7 @@
 
 ![plot](UnityMultiplayer3D.jpg)
 
-Download ![UnityMultiplayer3D setup](https://github.com/myworldbox/exe/UnityMultiplayer3D%20setup.exe) and play instantly.
+Download [UnityMultiplayer3D setup](https://github.com/myworldbox/exe/UnityMultiplayer3D%20setup.exe) and play instantly.
 
 It is a Unity Multiplayer Game Controller Demo created during my job in the company.
 
