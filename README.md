@@ -4,7 +4,9 @@
 
 Download [UnityMultiplayer3D setup](https://mega.nz/file/r9A11KJJ#vEBnO74MjcTYW_OeuriGNDZPBTGOeaoKHV1322pDVGE) and play instantly.
 
-It is a Unity Multiplayer Game Controller Demo created during my job in the company.
+I use Inno Setup to created the installer
+
+It is a Unity Multiplayer Game Controller Demo created during my work in the company.
 
 It is very fundamental and does not have many functionalities.
 
