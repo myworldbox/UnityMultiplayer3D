@@ -1,6 +1,6 @@
 # UnityMultiplayer3D
 
-![plot](UnityMultiplayer3D.jpg)
+![plot](https://github.com/myworldbox/UnityMultiplayer3D/raw/main/UnityMultiplayer3D.jpg)
 
 Download [UnityMultiplayer3D setup](https://mega.nz/file/r9A11KJJ#vEBnO74MjcTYW_OeuriGNDZPBTGOeaoKHV1322pDVGE) and play instantly.
 
